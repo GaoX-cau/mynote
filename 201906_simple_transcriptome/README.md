@@ -14,7 +14,7 @@ sh run_rna-seq.sh
 ./fpkm_cluster.py $(ls *.gene_abund.tab)
 ```
 
-![PCA](pca.png)
+![PCA](PCA.png)
 
 ![hierarchy](hierarchy.png)
 
